@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Uposhonghar
+
+This log tracks the cryptographic history and versioning for the song **Uposhonghar** (uposhonghar).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T17:44:40.436503 | `v1` | `c26c27105e4d4a4bb005fad90fde9eca53aae8aa4371226e958e576881da09ae` | `185a28ad1fafa98a81948df512fb247b51bbd174e0a74f68b48ec6776457328c` | `2026-05-08_uposhonghar-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
